@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-02-09T10:49:04 IST" name="Surefire suite" finished-at="2024-02-09T10:49:18 IST" duration-ms="13395">
+    <groups>
+    </groups>
+    <test started-at="2024-02-09T10:49:04 IST" name="Surefire test" finished-at="2024-02-09T10:49:18 IST" duration-ms="13395">
+      <class name="com.imdb.testCases.IMDBSearchTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.imdb.testCases.IMDBSearchTest@4df50bcc]" started-at="2024-02-09T10:49:01 IST" name="setUp" finished-at="2024-02-09T10:49:04 IST" duration-ms="3664" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verify_IMDBSearch_functionality()[pri:0, instance:com.imdb.testCases.IMDBSearchTest@4df50bcc]" started-at="2024-02-09T10:49:04 IST" name="verify_IMDBSearch_functionality" finished-at="2024-02-09T10:49:18 IST" duration-ms="13347" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verify_IMDBSearch_functionality -->
+      </class> <!-- com.imdb.testCases.IMDBSearchTest -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>
